@@ -1,0 +1,25 @@
+{
+  "name": "platzi-async-landing",
+  "version": "1.0.0",
+  "description": "Platzi's AsyncJs Course Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLopezosa/platzi-async-landing.git"
+  },
+  "keywords": [
+    "platzi",
+    "async",
+    "js",
+    "javascript"
+  ],
+  "author": "Ignacio Lopezosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLopezosa/platzi-async-landing/issues"
+  },
+  "homepage": "https://github.com/iLopezosa/platzi-async-landing#readme"
+}
